@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313918753106",
+    "project_id": "inkart-class",
+    "storage_bucket": "inkart-class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313918753106:android:da53c9741ea860649cd28b",
+        "android_client_info": {
+          "package_name": "com.reduxmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313918753106-q7f4hsrl7mtv34mo6b9bki02ek5dkren.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfHQi8UZdNBEixVdi7zSzEB5un-uN5PZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313918753106-q7f4hsrl7mtv34mo6b9bki02ek5dkren.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
